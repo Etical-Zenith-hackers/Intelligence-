@@ -17,12 +17,3 @@ The visitor prompt is now fully client-side:
 - The prompt will not appear again on that browser unless its local storage is cleared.
 
 If FormSubmit has not yet been activated for `zenithintel@consultant.com`, the popup will still close correctly, but the email notification will not be delivered until the FormSubmit recipient is activated.
-
-
-## Updated supplied backgrounds
-The Asset Recovery page now uses the three supplied Zenith images locally:
-- `assets/asset-tracing-hero.jpg` — hero background
-- `assets/asset-tracing-office.jpg` — investigation/intro and visual-break background
-- `assets/asset-tracing-security.jpg` — legal/limitations section background
-
-The recovery language explicitly says **recovery is not guaranteed**.
